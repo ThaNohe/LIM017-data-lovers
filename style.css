@@ -162,8 +162,8 @@ top: 0;
 #data{
 display: none;
 height: 930px;
-background-image: url(data/img/fondo-rio.png);
-background-size: cover;
+/* background-image: url(data/img/fondo-rio.png);
+ */background-size: cover;
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-size: cover;
